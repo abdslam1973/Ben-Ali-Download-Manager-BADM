@@ -67,3 +67,5 @@ Ben Ali Download Manager (BADM)
 © 2026 Abdulsalam Ben Ali. All Rights Reserved.
 
 **مشروع مستقل يهدف إلى توفير تجربة متكاملة لإدارة التنزيلات على نظام Windows.**
+رابط تحميل اصدرات البرنامج من هنا :
+https://github.com/abdslam1973/Ben-Ali-Download-Manager-BADM-/releases
