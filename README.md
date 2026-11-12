@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Category-Download%20Manager-purple?style=for-the-badge" alt="Download Manager">
   <img src="https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge" alt="Free">
   <img src="https://img.shields.io/badge/Developed%20in-Libya-red?style=for-the-badge" alt="Developed in Libya">
+  <img src="https://img.shields.io/github/v/release/abdslam1973/Ben-Ali-Download-Manager-BADM?style=for-the-badge&label=Latest%20Version" alt="Latest Version">
 </p>
 
 <p align="center">
