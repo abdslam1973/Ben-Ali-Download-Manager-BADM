@@ -1,6 +1,15 @@
-🚀 Ben Ali Download Manager (BADM)
+# 🚀 Ben Ali Download Manager (BADM)
 
 مدير التنزيلات وتحميل الفيديوهات من الإنترنت
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%207--11-blue?style=for-the-badge&logo=windows" alt="Windows 7-11">
+  <img src="https://img.shields.io/badge/Architecture-x86%20%7C%20x64-green?style=for-the-badge" alt="32-bit and 64-bit">
+  <img src="https://img.shields.io/badge/Interface-Arabic-orange?style=for-the-badge" alt="Arabic Interface">
+  <img src="https://img.shields.io/badge/Category-Download%20Manager-purple?style=for-the-badge" alt="Download Manager">
+  <img src="https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge" alt="Free">
+  <img src="https://img.shields.io/badge/Developed%20in-Libya-red?style=for-the-badge" alt="Developed in Libya">
+</p>
 
 <p align="center">
   <img src="Shot%200001.jpg" width="850" alt="Ben Ali Download Manager">
@@ -135,3 +144,5 @@ Ben Ali Download Manager (BADM)
 
 **مشروع مستقل يهدف إلى توفير تجربة متكاملة لإدارة التنزيلات على نظام Windows.** 
 
+رابط تحميل اصدرات البرنامج من هنا :
+https://github.com/abdslam1973/Ben-Ali-Download-Manager-BADM/releases
