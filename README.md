@@ -1,7 +1,15 @@
 🚀 Ben Ali Download Manager (BADM)
- مدير التنزيلات وتحميل الفيديوهات من الإنترنت
- <p align="center">
+
+مدير التنزيلات وتحميل الفيديوهات من الإنترنت
+
+<p align="center">
   <img src="Shot%200001.jpg" width="850" alt="Ben Ali Download Manager">
+</p>
+
+<p align="center">
+  <a href="https://github.com/abdslam1973/Ben-Ali-Download-Manager-BADM/releases">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD-Ben_Ali_Download_Manager-blue?style=for-the-badge" alt="Download BADM">
+  </a>
 </p>
 
 **Ben Ali Download Manager (BADM)** هو برنامج متكامل لإدارة التنزيلات، صُمّم لتوفير تجربة تحميل سهلة وفعّالة، تجمع بين تحميل الملفات والفيديوهات من مختلف منصات الإنترنت والمواقع الإلكترونية، وإدارة عمليات التنزيل من خلال واجهة موحدة تجمع بين البساطة والمرونة والوظائف المتقدمة.
