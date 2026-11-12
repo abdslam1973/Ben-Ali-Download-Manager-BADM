@@ -89,6 +89,29 @@
 ### 🔄 التحديث إلى إصدار جديد
 تابع قسم Releases باستمرار للحصول على أحدث الإصدارات والتحسينات.
 
+## 🧩 إضافات المتصفحات الرسمية
+
+يوفر Ben Ali Download Manager إضافات مخصصة للتكامل مع متصفحات الإنترنت، مما يتيح إرسال روابط الملفات والفيديوهات مباشرة إلى برنامج BADM وإدارة عمليات التنزيل بسهولة.
+
+### 🔵 Microsoft Edge
+إضافة Ben Ali Download Manager الرسمية لمتصفح Microsoft Edge.
+
+🔗 [تحميل الإضافة من متجر Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/jnjkbdbbbeefgojpfdladaddchpjmaoc)
+
+### 🦊 Mozilla Firefox
+إضافة Ben Ali Download Manager الرسمية لمتصفح Mozilla Firefox.
+
+🔗 [تحميل الإضافة من متجر Firefox الرسمي](https://addons.mozilla.org/en-US/firefox/addon/ben-ali-download-manager/)
+
+### 🌐 Google Chrome
+إضافة Google Chrome: غير متوفرة حالياً في متجر Chrome.
+
+### ℹ️ ملاحظات مهمة
+- يجب تثبيت برنامج BADM على جهازك قبل استخدام الإضافة.
+- تأكد من تشغيل البرنامج حتى تتمكن الإضافة من التواصل معه.
+- تتولى الإضافة تسهيل إرسال روابط التحميل من المتصفح إلى البرنامج.
+- يُنصح باستخدام أحدث إصدار متوافق من البرنامج والإضافة.
+
 🔄 التطوير والتحديثات
 
 البرنامج قيد التطوير المستمر، ويتم إصدار تحديثات دورية تتضمن، بحسب الحاجة:
@@ -112,5 +135,3 @@ Ben Ali Download Manager (BADM)
 
 **مشروع مستقل يهدف إلى توفير تجربة متكاملة لإدارة التنزيلات على نظام Windows.** 
 
-رابط تحميل اصدرات البرنامج من هنا :
-https://github.com/abdslam1973/Ben-Ali-Download-Manager-BADM/releases
